@@ -3,12 +3,12 @@
 ## Installation
 - Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız yer gelecek)
 
-- [lorem impus](http://google.com.tr)
+- [GİTHUP link](https://github.com/nergizcelik/kodluyoruzilkrepo)
 ## Usage
 - Projeyi clonladıktan sonra Visual Studio Code programını çalıştırınız.
 ## Contributing 
 - Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değştimek istediğinize tartışmak için bir konu açın.
 ## Image
 
-- ![GiTHUP Calısma Ekranı](jpg/markdown.png)
+- ![GiTHUP logo](https://miro.medium.com/max/720/0*ZLfPdBuEy3SgJscw.webp)
 
