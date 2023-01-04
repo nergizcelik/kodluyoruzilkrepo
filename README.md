@@ -2,11 +2,11 @@
 - [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Eğitimi kapsamında açtığım ilk repo içerisinde proje dosyaları bunmaktadır.
 
 ## Image
-- ![GiTHUP logo](githup.PNG)
+- ![GiTHUP ](githup.PNG)
 
 ## Installation
 - Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız yer gelecek)
-- [GİTHUP link](https://github.com/nergizcelik/kodluyoruzilkrepo)
+- [Githup link](https://github.com/nergizcelik/kodluyoruzilkrepo)
 
 ## Usage
 - Projeyi clonladıktan sonra Visual Studio Code programını çalıştırınız.
