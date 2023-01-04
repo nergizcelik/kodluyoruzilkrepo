@@ -8,6 +8,6 @@
 ## Contributing 
 - Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değştimek istediğinize tartışmak için bir konu açın.
 ## Image
-![GiTHUP Calısma EKranı] (jpg/markdown.png)
+![GiTHUP Calısma Ekranı] (jpg/markdown.png)
 
 
