@@ -11,6 +11,12 @@
 ## Usage
 - Projeyi clonladıktan sonra Visual Studio Code programını çalıştırınız.
 
+Linux için
+'''
+cd kodluyoruzilkrepo
+code .
+'''
+
 ## Contributing 
 - Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değştimek istediğinize tartışmak için bir konu açın.
 
